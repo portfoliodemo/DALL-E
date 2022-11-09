@@ -1,0 +1,30 @@
+
+body {
+    background-color: rgb(27, 16, 16);
+}
+
+header h1 {
+    color: whitesmoke;
+    text-align: center;
+}
+
+main {
+    display: grid;
+    justify-content: center;
+    justify-items: center;
+}
+
+figure {
+    width: 50%;
+}
+
+figure img {
+    width: 100%;
+    border-radius: 3rem;
+}
+
+figure figcaption {
+    text-align: center;
+    color: whitesmoke;
+    padding: 0.25rem;
+}
